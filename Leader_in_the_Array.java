@@ -1,5 +1,3 @@
-package assignment;
-
 public class Leader_in_the_Array {
 
 	public static void main(String[] args) {
